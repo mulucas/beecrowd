@@ -1,5 +1,5 @@
 # Uri-Online-Judge
-Aqui vai ficar todos os códigos resolvido no site da [Uri-Online-Judge](https://www.urionlinejudge.com.br/)
+Aqui vai ficar todos os códigos resolvido no site da [beecrowd](https://www.beecrowd.com.br/)
 
 | NUMERO  | SOLUÇÃO |
 | ------------- | ------------- |
