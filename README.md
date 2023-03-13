@@ -1,7 +1,9 @@
 # Beecrowd
-Aqui vai ficar todos os códigos resolvido no site da [beecrowd](https://www.beecrowd.com.br/)
+Aqui vai ficar todos os cï¿½digos resolvido no site da [beecrowd](https://www.beecrowd.com.br/)
+## Sobre :man_technologist:
+A [beecrowd](https://www.beecrowd.com.br/) que antes era a (Uri Online Judge) Ã© uma plataforma online de programaÃ§Ã£o que oferece desafios e competiÃ§Ãµes para programadores em todo o mundo. A plataforma Ã© gratuita e aberta a todos, independentemente do nÃ­vel de habilidade ou experiÃªncia. Neste repositÃ³rio tem algumas soluÃ§Ãµes resolvido na linguagem de programaÃ§Ã£o JAVA, segue abaixo o link para visualizar o contexto do problema diretamente na plataforma, e ao lado a resoluÃ§Ã£o presente nesse repositÃ³rio.
 
-| NUMERO  | SOLUÇÃO | NUMERO  | SOLUÇÃO | NUMERO  | SOLUÇÃO | NUMERO  | SOLUÇÃO |
+| NUMERO  | SOLUï¿½ï¿½O | NUMERO  | SOLUï¿½ï¿½O | NUMERO  | SOLUï¿½ï¿½O | NUMERO  | SOLUï¿½ï¿½O |
 | ------------- | ------------- | ------------- |------------- | ------------- |------------- |------------- |------------- |
 |[1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) | [resposta](https://github.com/mulucas/Uri-Online-Judge/blob/master/uri/src/iniciante/_1000.java) |[1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) | [resposta](https://github.com/mulucas/Uri-Online-Judge/blob/master/uri/src/iniciante/_1001.java) |[1002](https://www.beecrowd.com.br/judge/pt/problems/view/1002) | [resposta](https://github.com/mulucas/Uri-Online-Judge/blob/master/uri/src/iniciante/_1002.java) |[1003](https://www.beecrowd.com.br/judge/pt/problems/view/1003) | [resposta](https://github.com/mulucas/Uri-Online-Judge/blob/master/uri/src/iniciante/_1003.java) |
 [1004](https://www.beecrowd.com.br/judge/pt/problems/view/1004) | [resposta](https://github.com/mulucas/Uri-Online-Judge/blob/master/uri/src/iniciante/_1004.java) |[1005](https://www.beecrowd.com.br/judge/pt/problems/view/1005) | [resposta](https://github.com/mulucas/Uri-Online-Judge/blob/master/uri/src/iniciante/_1005.java) |[1006](https://www.beecrowd.com.br/judge/pt/problems/view/1006) | [resposta](https://github.com/mulucas/Uri-Online-Judge/blob/master/uri/src/iniciante/_1006.java) |[1007](https://www.beecrowd.com.br/judge/pt/problems/view/1007) | [resposta](https://github.com/mulucas/Uri-Online-Judge/blob/master/uri/src/iniciante/_1007.java) |
