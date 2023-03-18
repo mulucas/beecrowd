@@ -4,7 +4,7 @@ import java.io.*;
 
 public class _1534 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		String linha;
 		int matriz[][];

@@ -4,7 +4,7 @@ import java.io.*;
 
 public class _1564 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		String line;
 		int n;
