@@ -1,6 +1,8 @@
+package iniciante;
+
 import java.io.IOException;
 import java.util.Scanner;
-public class Main {
+public class _3174 {
 
     public static void main(String[] args) throws IOException {
 

@@ -1,3 +1,5 @@
+package iniciante;
+
 import java.io.IOException;
 import java.util.Scanner;
 public class _3224 {
